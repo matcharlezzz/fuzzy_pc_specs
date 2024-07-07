@@ -1,11 +1,14 @@
 from membership import TrapMF
 from membership import TriMF
+from membership import PCSpecsMembership
 
 
-x = TrapMF(1, 8, 5, 7, 1)
+pc = PCSpecsMembership()
 
-tri_test = TriMF(50, 60, 80, 1)
 
-while(True):
-    val = input("Type number: ")
-    print(tri_test.get_output(float(val)))
+val = input("Type number for Budget: ")
+print(pc.budget(val))
+val = input("Type number for Workload: ")
+print(pc.workload(input))
+val = input("Type number for Storage: ")
+print(pc.storage(input))
