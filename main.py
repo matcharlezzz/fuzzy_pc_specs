@@ -7,8 +7,8 @@ pc = PCSpecsMembership()
 
 
 val = input("Type number for Budget: ")
-print(pc.budget(val))
+print(pc.budget(float(val)))
 val = input("Type number for Workload: ")
-print(pc.workload(input))
+print(pc.workload(float(val)))
 val = input("Type number for Storage: ")
-print(pc.storage(input))
+print(pc.storage(float(val)))
