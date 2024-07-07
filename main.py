@@ -12,3 +12,5 @@ val = input("Type number for Workload: ")
 print(pc.workload(float(val)))
 val = input("Type number for Storage: ")
 print(pc.storage(float(val)))
+
+# include the final values as 1 for worklaod in storage
