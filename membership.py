@@ -64,10 +64,13 @@ class TriMF:
 class PCSpecsMembership:
 
     #Budget
-    entry = TrapMF(9999.9999, 10000,20000,30000,1)
-    entry_mid = TriMF(20000, 40000, 60000, 1)
-    mid_high = TriMF(50000, 65000, 80000, 1)
-    high = TrapMF(70000, 80000, 1000000, 1000001, 1)
+    budget_val = TrapMF(9999.9999, 10000, 20000, 30000, 1)
+    entry = TriMF(20000, 30000, 40000, 1)
+    entry_mid = TriMF(30000, 40000, 50000, 1)
+    mid = TriMF(40000, 50000, 70000, 1)
+    mid_high = TriMF(60000, 70000, 80000, 1)
+    high = TriMF(70000, 80000, 90000, 1)
+    very_high = TrapMF(80000, 90000, 1000000, 1000001, 1)
 
     #case/workload
     off = TrapMF(0.9999,1, 3, 4, 1)
@@ -78,16 +81,19 @@ class PCSpecsMembership:
     #storage needs
     light_user = TriMF(1, 2, 3, 1)
     everyday_user = TriMF(2, 3, 4, 1)
-    power_user = TriMF(3, 4, 5, 1)
+    power_user = TrapMF(3, 4, 5, 5.1, 1)
 
 
     def budget(self, input):
-        result = {"entry": [], "entry_mid": [], "mid_high": [], "high": []}
+        result = {"budget": [], "entry": [], "entry_mid": [], "mid": [], "mid_high": [], "high": [], "very_high": []}
 
+        result["budget"].append(self.budget_val.get_output(input))
         result["entry"].append(self.entry.get_output(input))
         result["entry_mid"].append(self.entry_mid.get_output(input))
+        result["mid"].append(self.mid.get_output(input))
         result["mid_high"].append(self.mid_high.get_output(input))
         result["high"].append(self.high.get_output(input))
+        result["very_high"].append(self.very_high.get_output(input))
 
         return result
     
@@ -102,10 +108,10 @@ class PCSpecsMembership:
         return result
     
     def storage(self, input):
-        result = {"light_user": [], "everyday_user": [], "power_user": []}
+        result = {"light": [], "everyday": [], "power": []}
 
-        result["light_user"].append(self.light_user.get_output(input))
-        result["everyday_user"].append(self.everyday_user.get_output(input))
-        result["power_user"].append(self.power_user.get_output(input))
+        result["light"].append(self.light_user.get_output(input))
+        result["everyday"].append(self.everyday_user.get_output(input))
+        result["power"].append(self.power_user.get_output(input))
 
         return result
