@@ -73,15 +73,15 @@ class PCSpecsMembership:
     very_high = TrapMF(80000, 90000, 1000000, 1000001, 1)
 
     #case/workload
-    off = TrapMF(0.9999,1, 3, 4, 1)
+    off = TrapMF(0.9999, 1, 3, 4, 1)
     lmt = TriMF(3, 4.5, 6, 1)
     lgm = TriMF(5, 6.5, 8, 1)
     hvy = TrapMF(7, 8, 10, 10.0001, 1)
 
     #storage needs
-    light_user = TriMF(1, 2, 3, 1)
+    light_user = TriMF(0.9999, 2, 3, 1)
     everyday_user = TriMF(2, 3, 4, 1)
-    power_user = TrapMF(3, 4, 5, 5.1, 1)
+    power_user = TriMF(3, 5, 5.0001, 1)
 
 
     def budget(self, input):
