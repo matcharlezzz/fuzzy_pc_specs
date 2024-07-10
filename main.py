@@ -1,8 +1,6 @@
+from membership import PCSpecsMembership
 import inference_engine as ig
 import defuzzifier as dfz
-from membership import TrapMF
-from membership import TriMF
-from membership import PCSpecsMembership
 
 pc = PCSpecsMembership()
 

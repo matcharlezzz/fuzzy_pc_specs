@@ -1,10 +1,7 @@
 #   activation is fuzzy conjunction of all rules/ membership degree of all rules
 #   output_sets is the fuzzy disjunction/ maximum value of all activation in output membership
 
-def aggregate(rset, outputs, ins):
-    ruleset = rset
-    output_sets = outputs
-    inputs = ins
+def aggregate(ruleset, output_sets, inputs):
     for rule in ruleset:
         inp_budget, inp_workload, inp_storage, out_set = rule
         activation = min(inputs['budget'][inp_budget], inputs['workload'][inp_workload], inputs['storage'][inp_storage])
