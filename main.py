@@ -1,6 +1,8 @@
 from membership import PCSpecsMembership
 import inference_engine as ig
 import defuzzifier as dfz
+import recommender as rcm
+import pprint
 
 pc = PCSpecsMembership()
 
@@ -20,4 +22,7 @@ all_inputs = ig.input_combiner(val1, val2, val3)
 aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs)
 defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
 
-print(f'Final PC Score: {defuzz_out}')
+print(f'\nFinal PC Score: {defuzz_out}')
+
+recos = rcm.recommendation(defuzz_out)
+pprint.pprint(recos)
