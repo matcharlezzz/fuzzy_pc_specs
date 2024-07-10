@@ -19,7 +19,8 @@ print(val3)
 
 
 all_inputs = ig.input_combiner(val1, val2, val3)
-aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs)
+aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs, False)
+print(aggregate)
 defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
 
 print(f'\nFinal PC Score: {defuzz_out}')
