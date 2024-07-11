@@ -1,7 +1,7 @@
 from itertools import islice
 import json
 
-f = open('db/final_charnotate.json')
+f = open('db/datasets.json')
 
 data = json.load(f)
 
