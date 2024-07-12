@@ -1,6 +1,7 @@
 from itertools import islice
 import json
 
+
 def recommendation(score: int) -> dict:
     f = open('db/datasets.json')
 
