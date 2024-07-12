@@ -27,7 +27,6 @@ def ezpc(in_val1, in_val2, in_val3):
     defuzz_list = [defuzz_out, defuzz_outV2]
 
     closest_defuzz = min(defuzz_list, key=lambda x:abs(x-(int(in_val1)/10000)))
-    print(defuzz_list)
 
     print(f'\nFinal PC Score: {closest_defuzz}')
 

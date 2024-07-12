@@ -15,7 +15,6 @@ def receive_query():
     if request.method == 'POST':
         data = json.loads(request.data.decode('utf-8'))
         print(f'data are: {data}')
-        
 
         pc = PCSpecsMembership()
 
@@ -27,11 +26,17 @@ def receive_query():
 
         all_inputs = ig.input_combiner(val1, val2, val3)
         aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs, False)
+
         defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
+        defuzz_outV2 = dfz.defuzzyV2(aggregate)
 
-        print(f'\nFinal PC Score: {defuzz_out}')
+        defuzz_list = [defuzz_out, defuzz_outV2]
 
-        recos = rcm.recommendation(defuzz_out)
+        closest_defuzz = min(defuzz_list, key=lambda x: abs(x - (int(data["budget"]) / 10000)))
+
+        print(f'\nFinal PC Score: {closest_defuzz}')
+
+        recos = rcm.recommendation(closest_defuzz)
 
         data = json.dumps(recos, indent=4)
         response = jsonify(recos)
