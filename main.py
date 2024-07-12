@@ -39,9 +39,3 @@ def ezpc(in_val1, in_val2, in_val3):
 
     return recos
 
-while True:
-    val1 = input()
-    val2 = input()
-    val3 = input()
-    ezpc(val1, val2, val3)
-
