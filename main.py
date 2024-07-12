@@ -17,7 +17,10 @@ def ezpc(in_val1, in_val2, in_val3):
     print(in_val3, ":",val3)
 
     all_inputs = ig.input_combiner(val1, val2, val3)
-    aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs, False)
+
+    output_sets = {key: 0 for key in ig.output_sets}    # set every key back to 0
+    aggregate = dfz.aggregate(ig.ruleset, output_sets, all_inputs, False)
+
 
     defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
     defuzz_outV2 = dfz.defuzzyV2(aggregate)
@@ -25,12 +28,20 @@ def ezpc(in_val1, in_val2, in_val3):
     defuzz_list = [defuzz_out, defuzz_outV2]
 
     closest_defuzz = min(defuzz_list, key=lambda x:abs(x-(int(in_val1)/10000)))
+    print(defuzz_list)
 
     print(f'\nFinal PC Score: {closest_defuzz}')
 
     recos = rcm.recommendation(closest_defuzz)
-    pprint.pprint(recos)
+    # pprint.pprint(recos)
 
     # toJSON.pack_dict(recos)
 
     return recos
+
+while True:
+    val1 = input()
+    val2 = input()
+    val3 = input()
+    ezpc(val1, val2, val3)
+

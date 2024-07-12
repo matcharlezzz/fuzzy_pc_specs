@@ -100,6 +100,7 @@ ruleset = [
     ('very_high', 'hvy', 'power', 'EW')
 ]
 
+
 output_sets = {
     'NA': 0,
     'BF': 0,
