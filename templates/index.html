@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EZPC - PC Build Recommender</title>
+    <style>
+        form {
+            width: 10vw;
+            display: flex;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <h1>EZPC PC Build Recommender</h1>
+
+    <form action="/submit" method="POST">
+        <label for="budget">Budget</label>
+        <input type="number" name="budget" id="budget" placeholder="Ex. 10000">
+        <label for="workload">Workload Intensity</label>
+        <input type="range" min="0" max="10" step="0.01" value="8" name="workload" id="workload">
+        <label for="storage">Storage Intensity</label>
+        <input type="range" min="0" max="5" step="0.01" value="5" name="storage" id="storage">
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="pc_cont"></div>
+
+    <button onclick="window.location.href = '/'">Go Back to Homepage</button>
+    
+    <script type="text/javascript">
+        var values = {{ value | tojson }};
+        
+        for(var key in values){
+            var pc = document.createElement('div');
+            var pc_score = document.createElement('h1');
+            pc_score.innerHTML = key;
+            pc.appendChild(pc_score);
+
+            var pc_specs_cont = document.createElement('div');
+            var pc_specs = values[key]
+            for(var spec in pc_specs){
+                if(spec.includes("CPU") || spec.includes("GPU") || spec.includes("Motherboard") || spec.includes("SSD") || spec.includes("RAM") || spec.includes("PSU") || spec.includes("HDD")){
+                    var pc_spec = document.createElement('p');
+                    pc_spec.innerHTML = spec + ':' + pc_specs[spec]['name'];
+                    pc_specs_cont.appendChild(pc_spec);
+                }
+            }
+
+            pc.appendChild(pc_specs_cont);
+            document.getElementById('pc_cont').appendChild(pc);
+        }
+    </script>
+</body>
+</html>
