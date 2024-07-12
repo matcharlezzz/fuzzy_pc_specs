@@ -5,6 +5,11 @@
     color: white;
 }
 
+img {
+    width: 100px;
+    height: 100px;
+}
+
 ::-webkit-scrollbar {
     width: 15px;
   }
@@ -93,4 +98,20 @@ button:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: solid 1px white;
+}
+
+.spec-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.spec-icon {
+    width: 25px; /* Adjust as needed */
+    height: auto;
+    margin-right: 10px;
+}
+
+.spec-container p {
+    margin: 0;
 }

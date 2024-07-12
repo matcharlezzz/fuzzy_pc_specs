@@ -26,7 +26,7 @@
     <script type="text/javascript">
         var values = {{ value | tojson }};
         
-        for(var key in values){
+        for (var key in values) {
             var pc = document.createElement('div');
             pc.setAttribute('class', 'pc');
             var pc_score = document.createElement('h1');
@@ -34,14 +34,41 @@
             pc.appendChild(pc_score);
 
             var pc_specs_cont = document.createElement('div');
-            var pc_specs = values[key]
-            for(var spec in pc_specs){
-                if(spec.includes("CPU") || spec.includes("GPU") || spec.includes("Motherboard") || spec.includes("SSD") || spec.includes("RAM") || spec.includes("PSU") || spec.includes("HDD")){
+            var pc_specs = values[key];
+
+            for (var spec in pc_specs) {
+                if (spec.includes("CPU") || spec.includes("GPU") || spec.includes("Motherboard") || spec.includes("SSD") || spec.includes("RAM") || spec.includes("PSU") || spec.includes("HDD")) {
+                    var pc_spec_container = document.createElement('div');
+                    pc_spec_container.setAttribute('class', 'spec-container');
+
+                    var img = document.createElement('img');
                     var pc_spec = document.createElement('p');
+
+                    // Set icons based on specification
+                    if (spec.includes("CPU")) {
+                        img.src = '{{url_for('static', filename='builtin/cpu.png')}}'; 
+                    } else if (spec.includes("GPU")) {
+                        img.src = '{{url_for('static', filename='builtin/gpu.png')}}';
+                    } else if (spec.includes("Motherboard")) {
+                        img.src = '{{url_for('static', filename='builtin/motherboard.png')}}';
+                    } else if (spec.includes("SSD")) {
+                        img.src = '{{url_for('static', filename='builtin/ssd.png')}}';
+                    } else if (spec.includes("RAM")) {
+                        img.src = '{{url_for('static', filename='builtin/ram.png')}}';
+                    } else if (spec.includes("PSU")) {
+                        img.src = '{{url_for('static', filename='builtin/psu.png')}}';
+                    } else if (spec.includes("HDD")) {
+                        img.src = '{{url_for('static', filename='builtin/hdd.png')}}'; 
+                    }
+
+                    img.setAttribute('class', 'spec-icon');
                     pc_spec.innerHTML = "<b>" + spec + ':' + "</b> " + pc_specs[spec];
-                    pc_specs_cont.appendChild(pc_spec);
+                    pc_spec_container.appendChild(img);
+                    pc_spec_container.appendChild(pc_spec);
+                    pc_specs_cont.appendChild(pc_spec_container);
                 }
             }
+
             pc.appendChild(pc_specs_cont);
             document.getElementById('cont_pc').appendChild(pc);
         }
