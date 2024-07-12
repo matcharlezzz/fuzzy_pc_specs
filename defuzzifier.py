@@ -1,3 +1,8 @@
+from membership import PCSpecsMembership
+from math import isnan
+import numpy as np
+
+
 #   activation is fuzzy conjunction of all rules/ membership degree of all rules
 #   output_sets is the fuzzy disjunction/ maximum value of all activation in output membership
 
@@ -24,3 +29,22 @@ def defuzzy(output_sets, output_xmid):
         output_sets.values())
 
     return defuzzified_output
+
+
+def defuzzyV2(output_sets):
+    pc = PCSpecsMembership()
+
+    x_ranges = list(np.arange(0.5, 10.5, 0.5))
+    y = []
+
+    for x in range(len(x_ranges)):
+        y.append(pc.max_member_output(x_ranges[x], output_sets))
+
+    xy = [x_val * y_val for x_val, y_val in zip(x_ranges, y)]
+
+    if sum(xy) == 0 or sum(y) == 0:
+        CoG = 0
+    else:
+        CoG = sum(xy)/sum(y)
+
+    return CoG
