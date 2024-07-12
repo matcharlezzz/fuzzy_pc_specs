@@ -25,8 +25,9 @@
     
     <script type="text/javascript">
         var values = {{ value | tojson }};
-        
+        var count = 0
         for (var key in values) {
+            count += 1
             var pc = document.createElement('div');
             pc.setAttribute('class', 'pc');
             var pc_score = document.createElement('h1');
@@ -71,6 +72,18 @@
 
             pc.appendChild(pc_specs_cont);
             document.getElementById('cont_pc').appendChild(pc);
+        }
+        if(count === 0){
+            var message = document.createElement('h1');
+            message.innerHTML = "No PCs found...";
+            message.style.textAlign = "center";
+            message.style.fontWeight = "100";
+            message.style.position = "absolute";
+            message.style.top = "50%";
+            message.style.left = "50%";
+            message.style.transform = "translate(-50%, -50%)";
+            message.style.width = "60%";
+            document.getElementById('cont_pc').appendChild(message);
         }
     </script>
 </body>

@@ -2114,6 +2114,29 @@
         "total_price": 22275.0
     },
     {
+        "(Motherboard)": {
+            "name": "MSI B650M MORTAR WIFI DDR5 MATX AM5",
+            "price": 13195.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP DELTA ALPHA RGB WHITE 16GBX2=32GB 6000MHZ DDR5 EXPO",
+            "price": 7446.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 7800XT XFX SPEEDSTER QICK 319 CORE WHITE 16GB GDDR6 TRIPLE FAN",
+            "price": 31680.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "MSI MAG A850GL WITH PCIE 5.0 850W 80+ GOLD BLACK FULLY MODULAR",
+            "price": 6495.0
+        },
+        "total_price": 62661.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
@@ -2166,6 +2189,29 @@
             "price": 3845.0
         },
         "total_price": 59481.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PHANTOM GAMING 4 DDR4 MATX AM4",
+            "price": 5595.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D35G WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 GIGABYTE EAGLE BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 12995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 32378.0
     },
     {
         "(CPU)": {
@@ -2297,6 +2343,33 @@
             "price": 2995.0
         },
         "total_price": 20878.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D35G BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D35G BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 ZOTAC TWIN EDGE OC BLACK 8GB GDDR6 DUAL FAN",
+            "price": 17762.0
+        },
+        "(SSD0)": {
+            "name": "ADATA LEGEND 710 1TB NVME GEN 3",
+            "price": 4295.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 43818.0
     },
     {
         "(CPU)": {
@@ -2856,6 +2929,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 GIGABYTE EAGLE BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 12995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 33625.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -2907,6 +3003,52 @@
             "price": 3345.0
         },
         "total_price": 45163.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B450M-HDV DDR4 MATX AM4",
+            "price": 3545.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 17480.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 MSI GAMING X 8G BLACK GDDR6 DUAL FAN",
+            "price": 21495.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "total_price": 45222.0
     },
     {
         "(CPU)": {
@@ -3322,6 +3464,29 @@
         "total_price": 22275.0
     },
     {
+        "(Motherboard)": {
+            "name": "MSI B650M MORTAR WIFI DDR5 MATX AM5",
+            "price": 13195.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP DELTA ALPHA RGB WHITE 16GBX2=32GB 6000MHZ DDR5 EXPO",
+            "price": 7446.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 7800XT XFX SPEEDSTER QICK 319 CORE WHITE 16GB GDDR6 TRIPLE FAN",
+            "price": 31680.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "MSI MAG A850GL WITH PCIE 5.0 850W 80+ GOLD BLACK FULLY MODULAR",
+            "price": 6495.0
+        },
+        "total_price": 62661.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
@@ -3374,6 +3539,29 @@
             "price": 3845.0
         },
         "total_price": 59481.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PHANTOM GAMING 4 DDR4 MATX AM4",
+            "price": 5595.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D35G WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 GIGABYTE EAGLE BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 12995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 32378.0
     },
     {
         "(CPU)": {
@@ -3508,6 +3696,33 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D35G BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D35G BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2798.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 ZOTAC TWIN EDGE OC BLACK 8GB GDDR6 DUAL FAN",
+            "price": 17762.0
+        },
+        "(SSD0)": {
+            "name": "ADATA LEGEND 710 1TB NVME GEN 3",
+            "price": 4295.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 43818.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
         },
@@ -3632,6 +3847,9 @@
             "price": 2250.0
         },
         "total_price": 15125.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -4037,6 +4255,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 GIGABYTE EAGLE BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 12995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 33625.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -4088,6 +4329,52 @@
             "price": 3345.0
         },
         "total_price": 45163.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B450M-HDV DDR4 MATX AM4",
+            "price": 3545.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 17480.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 MSI GAMING X 8G BLACK GDDR6 DUAL FAN",
+            "price": 21495.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "total_price": 45222.0
     },
     {
         "(CPU)": {
@@ -4661,6 +4948,9 @@
         "total_price": 59171.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600X MPK (AM4) WITHOUT COOLER (TRAY TYPE)",
             "price": 7545.0
@@ -4715,6 +5005,9 @@
         "total_price": 44388.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
@@ -4740,6 +5033,29 @@
             "price": 3345.0
         },
         "total_price": 33216.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I9 13900KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 28995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE Z790 AERO G DDR5 ATX LGA1700",
+            "price": 20995.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4070 TI PALIT GAMING PRO OC WHITE 12GB TRIPLE FAN",
+            "price": 50795.0
+        },
+        "(SSD0)": {
+            "name": "SAMSUNG 980 PRO 1TB NVME GEN 4",
+            "price": 5995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 1050W 80+ GOLD FULLY MODULAR (ATX 3.0 WITH PCIE 5.0 12VHPWR)",
+            "price": 10395.0
+        },
+        "total_price": 117175.0
     },
     {
         "(CPU)": {
@@ -4932,6 +5248,40 @@
             "price": 6795.0
         },
         "(Motherboard)": {
+            "name": "EMAXX B450M PRO DDR4 MATX AM4",
+            "price": 2995.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "total_price": 13975.0
+    },
+    {
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 16595.0
+        },
+        "(PSU)": {
+            "name": "MSI MAG A650BN 650 WATTS 80+ BRONZE",
+            "price": 3345.0
+        },
+        "total_price": 19940.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
             "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
             "price": 6495.0
         },
@@ -4948,6 +5298,9 @@
             "price": 3999.0
         },
         "total_price": 23980.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -4975,6 +5328,25 @@
             "price": 6495.0
         },
         "total_price": 74670.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 10395.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE P650B BLACK 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3395.0
+        },
+        "total_price": 23030.0
     },
     {
         "(CPU)": {
@@ -5537,6 +5909,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO SE WHITE DDR4 MATX AM4",
+            "price": 5495.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "total_price": 16230.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -5617,6 +6008,9 @@
         "total_price": 32911.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
@@ -5665,6 +6059,9 @@
             "price": 3345.0
         },
         "total_price": 22576.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -6038,6 +6435,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 7700X (AM5) WITHOUT COOLER (BOXED)",
+            "price": 21295.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME B650M-A II DDR5 MATX AM5",
+            "price": 8245.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP DELTA ALPHA RGB BLACK 16GBX2=32GB 6000MHZ DDR5 EXPO",
+            "price": 7396.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4070 GIGABYTE GAMING OC BLACK 12GB GDDR6X TRIPLE FAN RGB",
+            "price": 40625.0
+        },
+        "(PSU)": {
+            "name": "MSI MAG A850GL WITH PCIE 5.0 850W 80+ GOLD BLACK FULLY MODULAR",
+            "price": 6495.0
+        },
+        "total_price": 84056.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I7 13700F (LGA1700) WITH INTEL LAMINAR RM1 COOLER",
             "price": 20770.0
         },
@@ -6381,6 +6801,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "NETAC SA500 3D NAND SSD SATA 2.5 256GB",
+            "price": 1195.0
+        },
+        "total_price": 14675.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 9295.0
         },
@@ -6432,6 +6875,29 @@
             "price": 3395.0
         },
         "total_price": 49732.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 SAPPHIRE PULSE GAMING BLACK 8GB GDDR6 DUAL FAN",
+            "price": 12595.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE P650B BLACK 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3395.0
+        },
+        "total_price": 32776.0
     },
     {
         "(CPU)": {
@@ -6571,6 +7037,24 @@
             "price": 6495.0
         },
         "total_price": 97375.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 PALIT DUAL BLACK 8GB GDDR6 DUAL FAN",
+            "price": 17655.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE P650B BLACK 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3395.0
+        },
+        "total_price": 33720.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -6787,6 +7271,9 @@
             "price": 3845.0
         },
         "total_price": 78450.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -7067,6 +7554,9 @@
         "total_price": 22931.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
@@ -7165,6 +7655,9 @@
             "price": 4050.0
         },
         "total_price": 38006.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -7577,6 +8070,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK A520M-HDV DDR4 MATX AM4",
+            "price": 3300.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(SSD0)": {
+            "name": "TRANSCEND PCIE SSD 115S 500GB NVME GEN 3",
+            "price": 1995.0
+        },
+        "total_price": 15986.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -7827,6 +8339,29 @@
         "total_price": 49842.0
     },
     {
+        "(CPU)": {
+            "name": "AMD RYZEN 3 3200G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 4295.0
+        },
+        "(Motherboard)": {
+            "name": "COLORFUL A320M-M.2 PRO V14 DDR4 MATX AM4",
+            "price": 2595.0
+        },
+        "(Keyboard and Mouse)": {
+            "name": "NEXION GK-140 BLACK (KEYBOARD AND MOUSE)",
+            "price": 445.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "total_price": 9625.0
+    },
+    {
         "(SSD0)": {
             "name": "ADATA LEGEND 960 MAX 1TB NVME GEN 4",
             "price": 3995.0
@@ -7932,6 +8467,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5700G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 9595.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H DDR4 MATX AM4",
+            "price": 5695.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP44L 500GB NVME GEN 4",
+            "price": 2995.0
+        },
+        "total_price": 21281.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -7959,6 +8513,25 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I7 13700KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 20995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE Z790 AORUS ELITE AX DDR5 ATX LGA1700",
+            "price": 18480.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR DOMINATOR PLATINUM RGB WHITE 16GBx2=32GB 5600MHZ DDR5 XMP",
+            "price": 9190.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS 8PINS (6+2) FOR GPU",
+            "price": 2200.0
+        },
+        "total_price": 53665.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
         },
@@ -7979,6 +8552,9 @@
             "price": 2950.0
         },
         "total_price": 20931.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -8139,6 +8715,9 @@
         "total_price": 95411.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
@@ -8248,6 +8827,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP DARK ZA 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2596.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "total_price": 17436.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I5 12400F (LGA 1700) WITH INTEL LAMINAR RM1 COOLER (TRAY TYPE)",
             "price": 7495.0
         },
@@ -8275,6 +8873,21 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I5 12400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 6695.0
+        },
+        "(Motherboard)": {
+            "name": "MSI PRO Z790-P WIFI DDR5 ATX LGA1700",
+            "price": 14295.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR DOMINATOR PLATINUM RGB BLACK 16GBx2=32GB 5200MHZ DDR5 XMP",
+            "price": 6790.0
+        },
+        "total_price": 27780.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -8299,6 +8912,9 @@
             "price": 7995.0
         },
         "total_price": 25716.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -8876,6 +9492,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 256GB GEN3",
+            "price": 1795.0
+        },
+        "total_price": 16175.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -9143,6 +9782,25 @@
             "price": 3845.0
         },
         "total_price": 44837.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 16GBX2=32GB 3200MHZ BLACK DDR4",
+            "price": 4390.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "total_price": 20825.0
     },
     {
         "(CPU)": {
@@ -9485,6 +10143,33 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI A520M-A PRO DDR4 MATX AM4",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3050 INNO3D TWIN 2X BLACK 8GB DUAL FAN",
+            "price": 11695.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 27670.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
         },
@@ -9509,6 +10194,29 @@
             "price": 1350.0
         },
         "total_price": 15925.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "MSI A520M-A PRO DDR4 MATX AM4",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 15275.0
     },
     {
         "(CPU)": {
@@ -9621,6 +10329,9 @@
             "price": 4385.0
         },
         "total_price": 47555.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -9786,6 +10497,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 7825.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
+            "price": 3999.0
+        },
+        "total_price": 21315.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -9914,6 +10644,25 @@
             "price": 3845.0
         },
         "total_price": 48142.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 3500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 3650.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 13085.0
     },
     {
         "(CPU)": {
@@ -10698,6 +11447,9 @@
         "total_price": 191314.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 7825.0
@@ -10896,6 +11648,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME A320M-K (M-ATX/AM4)",
+            "price": 3350.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1650 PNY BLACK 4GB GDDR6 DUAL FAN",
+            "price": 7995.0
+        },
+        "(SSD0)": {
+            "name": "APACER AS350 AP512GAS350-1 SATA 2.5 512GB",
+            "price": 1695.0
+        },
+        "total_price": 21880.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
             "price": 12670.0
         },
@@ -11054,6 +11829,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(SSD0)": {
+            "name": "CRUCIAL CT500P3SSD8 P3 500GB NVME GEN 3",
+            "price": 2595.0
+        },
+        "total_price": 19281.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
         },
@@ -11135,6 +11929,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS ROG STRIX B550-A GAMING DDR4 ATX AM4",
+            "price": 11195.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 TI GIGABYTE AERO 8GB OC WHITE GDDR6 TRIPLE FAN",
+            "price": 28495.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 54525.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 7825.0
         },
@@ -11190,6 +12007,59 @@
             "price": 3395.0
         },
         "total_price": 54690.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M STEEL LEGEND DDR4 MATX AM4",
+            "price": 7480.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 ZOTAC TWIN EDGE OC WHITE 8GB GDDR6 DUAL FAN",
+            "price": 19795.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(SSD1)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE UD750GM 750WATTS 80+ ATX GOLD FULLY MODULAR",
+            "price": 5650.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS V2 8PINS (6+2) FOR GPU",
+            "price": 2410.0
+        },
+        "total_price": 54520.0
+    },
+    {
+        "total_price": 0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 6795.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 550W 80+ BRONZE ATX NON MODULAR",
+            "price": 2595.0
+        },
+        "total_price": 18881.0
     },
     {
         "(CPU)": {
@@ -11298,6 +12168,17 @@
             "price": 5995.0
         },
         "total_price": 82296.0
+    },
+    {
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H DDR4 MATX AM4",
+            "price": 5695.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-850FX FOCUS PLUS 850W 80+ GOLD ATX FULLY MODULAR",
+            "price": 7595.0
+        },
+        "total_price": 13290.0
     },
     {
         "(CPU)": {
@@ -11821,6 +12702,9 @@
         "total_price": 75019.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 9 7900 (AM5) WITH WRAITH PRISM COOLER (BOXED)",
             "price": 25795.0
@@ -11984,6 +12868,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 3600 (AM4) MPK WITH WRAITH STEALTH COOLER (TRAY TYPE)",
+            "price": 4495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 GIGABYTE EAGLE BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 12995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "total_price": 26030.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -12008,6 +12911,29 @@
             "price": 5650.0
         },
         "total_price": 62177.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H DDR4 MATX AM4",
+            "price": 5695.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 18980.0
     },
     {
         "(CPU)": {
@@ -12066,6 +12992,29 @@
             "price": 2745.0
         },
         "total_price": 31525.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 850W 80+ GOLD ATX FULLY MODULAR",
+            "price": 6800.0
+        },
+        "(Motherboard)": {
+            "name": "MSI MAG B550 TOMAHAWK MAX WIFI DDR4 ATX AM4",
+            "price": 10795.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 7600 GIGABYTE GAMING OC BLACK 8GB GDDR6 TRIPLE FAN",
+            "price": 18249.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA S800 512GB SSD 2.5\"",
+            "price": 1895.0
+        },
+        "total_price": 47534.0
     },
     {
         "(CPU)": {
@@ -12186,6 +13135,9 @@
             "price": 2410.0
         },
         "total_price": 107431.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(PSU)": {
@@ -12390,6 +13342,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 TI GALAX 1-CLICK OC BLACK 8GB GDDR6 DUAL FAN",
+            "price": 26250.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-750 PX FOCUS PLUS 750W 80+ PLATINUM FULLY MODULAR",
+            "price": 6695.0
+        },
+        "total_price": 51780.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 7825.0
         },
@@ -12553,6 +13528,21 @@
             "price": 3999.0
         },
         "total_price": 82252.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "total_price": 16286.0
     },
     {
         "(CPU)": {
@@ -12972,6 +13962,29 @@
         "total_price": 50225.0
     },
     {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 7600X (AM5) WITHOUT COOLER (BOXED)",
+            "price": 13845.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME B650M-A WIFI DDR5 MATX AM5",
+            "price": 12100.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z5 NEO 16x2= 32GB 6000MHZ DDR5 BLACK (AMD EXPO)",
+            "price": 7390.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6750 XT GIGABYTE GAMING OC 12GB GDDR6 TRIPLE FAN",
+            "price": 22995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ GOLD ATX FULLY MODULAR",
+            "price": 5995.0
+        },
+        "total_price": 62325.0
+    },
+    {
         "(PSU)": {
             "name": "COOLER MASTER MWE V2 850W 80+ GOLD ATX FULLY MODULAR",
             "price": 6800.0
@@ -13277,6 +14290,9 @@
         "total_price": 33870.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
@@ -13385,6 +14401,9 @@
         "total_price": 31165.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "INTEL CORE I9 13900KF (LGA1700) WITHOUT COOLER (BOXED)",
             "price": 28995.0
@@ -13443,6 +14462,12 @@
         "total_price": 51991.0
     },
     {
+        "total_price": 0
+    },
+    {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
             "price": 6795.0
@@ -13464,6 +14489,21 @@
             "price": 2595.0
         },
         "total_price": 21680.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS ROG STRIX B550-A GAMING DDR4 ATX AM4",
+            "price": 11195.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z NEO RGB 8GBX2=16GB 3200MHZ DDR4",
+            "price": 3796.0
+        },
+        "total_price": 20476.0
     },
     {
         "(CPU)": {
@@ -13668,6 +14708,21 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B760M DS3H AX DDR4 MATX LGA1700",
+            "price": 7945.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 TI GIGABYTE EAGLE BLACK 8G GDDR6 TRIPLE FAN",
+            "price": 25995.0
+        },
+        "total_price": 46610.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W WRAITH STEALTH COOLER (1YR WARRANTY)",
             "price": 4995.0
         },
@@ -13750,6 +14805,29 @@
             "price": 3845.0
         },
         "total_price": 35366.0
+    },
+    {
+        "(Motherboard)": {
+            "name": "ASROCK X570 STEEL LEGEND DDR4 ATX AM4",
+            "price": 11995.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4070 MSI GAMING X TRIO BLACK 12GB GDDR6X TRIPLE FAN",
+            "price": 41570.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE UD750GM 750WATTS 80+ ATX GOLD FULLY MODULAR",
+            "price": 5650.0
+        },
+        "total_price": 65509.0
     },
     {
         "(CPU)": {
@@ -13865,6 +14943,29 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I7 13700KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 20995.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS ROG MAXIMUS Z690 HERO WITH BUILT-IN WIFI DDR5 ATX LGA1700",
+            "price": 24995.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR DOMINATOR PLATINUM RGB BLACK 32GBX2=64GB 5200MHZ DDR5  XMP",
+            "price": 14998.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR HX850 BLACK 850W 80+ PLATINUM ATX FULLY MODULAR",
+            "price": 10995.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4060 TI ASUS DUAL OC BLACK 8GB GDDR6 DUAL FAN",
+            "price": 27595.0
+        },
+        "total_price": 99578.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (AM4) WITH INPLAY PHOENIX P1 CPU COOLER (TRAY TYPE)(1YR WARRANTY)",
             "price": 6495.0
         },
@@ -13939,6 +15040,25 @@
             "price": 3495.0
         },
         "total_price": 39125.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W WRAITH STEALTH COOLER (1YR WARRANTY)",
+            "price": 4995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "APACER AP512GAS2280P4-1 NVME 512GB GEN 3",
+            "price": 2345.0
+        },
+        "total_price": 12430.0
     },
     {
         "(CPU)": {
@@ -14028,6 +15148,67 @@
             "price": 4050.0
         },
         "total_price": 53371.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 3500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 3650.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PHANTOM GAMING 4 DDR4 MATX AM4",
+            "price": 5595.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(RAM1)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1650 PNY BLACK 4GB GDDR6 DUAL FAN",
+            "price": 7995.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "total_price": 22479.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE A520I AC WIFI AM4 ITX",
+            "price": 6260.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR SF600 600W 80+ PLATINUM SFX FULLY MODULAR",
+            "price": 7500.0
+        },
+        "total_price": 22255.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W WRAITH STEALTH COOLER (1YR WARRANTY)",
+            "price": 4995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "CRUCIAL CT500P3PSSD8 P3 PLUS NVME 500GB GEN 4",
+            "price": 2195.0
+        },
+        "total_price": 12280.0
     },
     {
         "(CPU)": {
@@ -14209,6 +15390,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W WRAITH STEALTH COOLER (1YR WARRANTY)",
+            "price": 4995.0
+        },
+        "(Motherboard)": {
+            "name": "COLORFUL A320M-M.2 PRO V15 MATX AM4",
+            "price": 2495.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 11380.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G MPK (AM4) WITH INPLAY PHOENIX P1 CPU COOLER (TRAY TYPE)(1YR WARRANTY)",
             "price": 6495.0
         },
@@ -14260,6 +15460,25 @@
             "price": 2950.0
         },
         "total_price": 38905.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W WRAITH STEALTH COOLER (1YR WARRANTY)",
+            "price": 4995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 12580.0
     },
     {
         "(CPU)": {
@@ -14519,6 +15738,29 @@
             "price": 2745.0
         },
         "total_price": 23835.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME B550M-A WIFI II DDR4 MATX AM4",
+            "price": 6995.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP DELTA RGB TUF 8GBX2=16GB 3200MHZ DDR4",
+            "price": 3050.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1650 INNO3D TWIN X2 OC BLACK 4GB GDDR6 DUAL FAN",
+            "price": 8450.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "total_price": 26725.0
     },
     {
         "(CPU)": {
@@ -14816,6 +16058,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA SATA 3.5\" 2TB 7200RPM",
+            "price": 3795.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE UD750GM 750WATTS 80+ ATX GOLD FULLY MODULAR",
+            "price": 5650.0
+        },
+        "total_price": 20435.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I5 12400 (LGA 1700) MPK WITH RF-P4 S40 RGB CPU COOLER (TRAY TYPE) (1YR WARRANTY)",
             "price": 8895.0
         },
@@ -14870,6 +16131,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G MPK (AM4) WITH INPLAY PHOENIX P1 CPU COOLER (TRAY TYPE)(1YR WARRANTY)",
+            "price": 6495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 8GBX2=16GB 3200MHZ BLACK DDR4",
+            "price": 2590.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA S800 128GB SSD 2.5\"",
+            "price": 795.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "total_price": 16024.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I7 13700K (LGA1700) WITHOUT COOLER (BOXED)",
             "price": 23790.0
         },
@@ -14894,6 +16178,25 @@
             "price": 5650.0
         },
         "total_price": 60226.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5995.0
+        },
+        "(Motherboard)": {
+            "name": "EMAXX A320-PRO (MATX/AM4)",
+            "price": 2695.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 8GBX2=16GB 3200MHZ BLACK DDR4",
+            "price": 2590.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA S800 128GB SSD 2.5\"",
+            "price": 795.0
+        },
+        "total_price": 12075.0
     },
     {
         "(CPU)": {
@@ -14925,6 +16228,21 @@
             "price": 7595.0
         },
         "total_price": 87446.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(Motherboard)": {
+            "name": "MSI MAG B660M MORTAR WIFI DDR4 MATX LGA1700",
+            "price": 9275.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z NEO RGB 8GBX2=16GB 3600MHZ DDR4",
+            "price": 4196.0
+        },
+        "total_price": 26141.0
     },
     {
         "(CPU)": {
@@ -14987,6 +16305,9 @@
             "price": 2449.0
         },
         "total_price": 42625.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -15535,6 +16856,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 7825.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "PNY XLR8 GAMING RGB BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2945.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6600 ASROCK CHALLENGER BLACK 8GB GDDR6 DUAL FAN",
+            "price": 12495.0
+        },
+        "total_price": 27660.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 3 4100 (AM4) W/ WRAITH STEALTH COOLER",
             "price": 4195.0
         },
@@ -15596,6 +16936,25 @@
         "total_price": 68661.0
     },
     {
+        "(CPU)": {
+            "name": "AMD Athlon\u2122 200GE MPK (TRAY TYPE) w/ INPLAY PHOENIX P1 CPU COOLER (1 YEAR WARRANTY)",
+            "price": 2650.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME A320M-K (M-ATX/AM4)",
+            "price": 3350.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "COLORFUL SL500 256GB 2.5\" SATA SSD",
+            "price": 795.0
+        },
+        "total_price": 8190.0
+    },
+    {
         "(PSU)": {
             "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
             "price": 3999.0
@@ -15625,6 +16984,25 @@
             "price": 2449.0
         },
         "total_price": 58373.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) (AM4) WITH WRAITH STEALTH COOLER",
+            "price": 7825.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 8GBX2=16GB 3200MHZ BLACK DDR4",
+            "price": 2590.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 550W 80+ BRONZE ATX NON MODULAR",
+            "price": 2595.0
+        },
+        "total_price": 18805.0
     },
     {
         "(CPU)": {
@@ -15836,6 +17214,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 4600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5995.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME A320M-K (M-ATX/AM4)",
+            "price": 3350.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 8GBX2=16GB 3200MHZ BLACK DDR4",
+            "price": 2590.0
+        },
+        "(SSD0)": {
+            "name": "COLORFUL SL500 256GB 2.5\" SATA SSD",
+            "price": 795.0
+        },
+        "total_price": 12730.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7695.0
         },
@@ -15891,6 +17288,9 @@
             "price": 3395.0
         },
         "total_price": 46329.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -15995,6 +17395,25 @@
             "price": 3395.0
         },
         "total_price": 22020.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W/ INPLAY PHOENIX P1 CPU COOLER (1YR WARRANTY)",
+            "price": 4999.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL RIPJAWS V 8GBX2=16GB 3200MHZ BLACK DDR4",
+            "price": 2590.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 550W 80+ BRONZE ATX NON MODULAR",
+            "price": 2595.0
+        },
+        "total_price": 14579.0
     },
     {
         "(CPU)": {
@@ -16203,6 +17622,56 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X MPK (TRAY TYPE) w/ INPLAY PHOENIX P1 CPU COOLER (1YR WARRANTY)",
+            "price": 7825.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME B550M-A WIFI II DDR4 MATX AM4",
+            "price": 6995.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER GALAX 1CLICK OC 6GB DUAL FAN",
+            "price": 11999.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 500GB GEN 4",
+            "price": 2745.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "total_price": 35009.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME B550M-A WIFI II DDR4 MATX AM4",
+            "price": 6995.0
+        },
+        "(RAM0)": {
+            "name": "PNY XLR8 GAMING RGB BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2945.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "(Keyboard and Mouse)": {
+            "name": "REDRAGON S113-KN 2 IN 1 SET KEYBOARD AND MOUSE (BROWN SWITCH)",
+            "price": 1995.0
+        },
+        "total_price": 21525.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -16254,6 +17723,29 @@
             "price": 2595.0
         },
         "total_price": 32615.0
+    },
+    {
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER GALAX 1CLICK OC 6GB DUAL FAN",
+            "price": 11999.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 23039.0
     },
     {
         "(PSU)": {
@@ -16314,6 +17806,9 @@
         "total_price": 39870.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
@@ -16341,6 +17836,9 @@
         "total_price": 35066.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 7 5700G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 10395.0
@@ -16362,6 +17860,29 @@
             "price": 2895.0
         },
         "total_price": 34076.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G MPK (TRAY TYPE) W/ INPLAY PHOENIX P1 CPU COOLER (1YR WARRANTY)",
+            "price": 4999.0
+        },
+        "(Motherboard)": {
+            "name": "COLORFUL A320M-M.2 PRO V15 MATX AM4",
+            "price": 2495.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(RAM1)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "COLORFUL SL500 256GB 2.5\" SATA SSD",
+            "price": 795.0
+        },
+        "total_price": 11079.0
     },
     {
         "(CPU)": {
@@ -16451,6 +17972,29 @@
             "price": 3500.0
         },
         "total_price": 23780.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M MORTAR MAX WIFI MATX AM4",
+            "price": 9515.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z RGB 8x2 = 16GB 3600MHZ DDR4",
+            "price": 4700.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 16595.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "total_price": 49100.0
     },
     {
         "(CPU)": {
@@ -16640,6 +18184,9 @@
             "price": 3500.0
         },
         "total_price": 38970.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -17233,6 +18780,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 3 3200G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 4295.0
+        },
+        "(Motherboard)": {
+            "name": "COLORFUL A320M-M.2 PRO V15 MATX AM4",
+            "price": 2495.0
+        },
+        "(RAM0)": {
+            "name": "PNY XLR8 GAMING RGB BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2945.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 12230.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -17530,6 +19096,9 @@
         "total_price": 109106.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
@@ -17586,6 +19155,17 @@
             "price": 2449.0
         },
         "total_price": 29714.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550 AORUS ELITE AX V2 DDR4 ATX AM4",
+            "price": 10890.0
+        },
+        "total_price": 30680.0
     },
     {
         "(CPU)": {
@@ -17702,6 +19282,21 @@
             "price": 2180.0
         },
         "total_price": 22665.0
+    },
+    {
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 16595.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 22585.0
     },
     {
         "(CPU)": {
@@ -18072,6 +19667,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PHANTOM GAMING 4 DDR4 MATX AM4",
+            "price": 5595.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 22582.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 3 3200G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 4295.0
         },
@@ -18092,6 +19710,29 @@
             "price": 3500.0
         },
         "total_price": 14430.0
+    },
+    {
+        "(PSU)": {
+            "name": "CORSAIR CV750 750W 80+BRONZE ATX NON MODULAR",
+            "price": 4050.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z NEO 16X2=32GB 3600MHZ RGB DDR4",
+            "price": 6996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI INNO3D ICHILL X4 8GB OC QUAD FAN RGB",
+            "price": 24995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "(SSD1)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "total_price": 41781.0
     },
     {
         "(CPU)": {
@@ -18200,6 +19841,9 @@
             "price": 3500.0
         },
         "total_price": 28530.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -18430,6 +20074,9 @@
         "total_price": 58570.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 7 5700G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 10395.0
@@ -18547,6 +20194,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550 STEEL LEGEND DDR4 ATX AM4",
+            "price": 9735.0
+        },
+        "(SSD0)": {
+            "name": "WESTERN DIGITAL WD GREEN SN350 NVMe SSD 480GB PCIE GEN 3.0",
+            "price": 2180.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 22905.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -18571,6 +20237,9 @@
             "price": 3500.0
         },
         "total_price": 41526.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(Motherboard)": {
@@ -18686,6 +20355,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M AORUS ELITE DDR4 MATX AM4",
+            "price": 7145.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6700XT ASROCK CHALLENGER D 12GB GDDR6 DUAL FAN",
+            "price": 22995.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-750 FX FOCUS PLUS 750W 80+ GOLD MODULAR",
+            "price": 6495.0
+        },
+        "total_price": 47326.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -18741,6 +20433,33 @@
             "price": 9795.0
         },
         "total_price": 141120.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 GIGABYTE WINDFORCE GAMING OC BLACK 8GB DUAL FAN",
+            "price": 15995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA 1TB 3.5 HDD",
+            "price": 2449.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3495.0
+        },
+        "total_price": 37624.0
     },
     {
         "(CPU)": {
@@ -18830,6 +20549,9 @@
             "price": 3550.0
         },
         "total_price": 39526.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -18926,6 +20648,25 @@
             "price": 1350.0
         },
         "total_price": 18131.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5995.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M-HDV DDR4 MATX AM4",
+            "price": 4395.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "total_price": 13680.0
     },
     {
         "(CPU)": {
@@ -19144,6 +20885,9 @@
         "total_price": 57565.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
             "price": 14445.0
@@ -19173,6 +20917,33 @@
             "price": 3999.0
         },
         "total_price": 57924.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(RAM1)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER COLORFUL 6GB DUAL FAN",
+            "price": 12650.0
+        },
+        "(SSD0)": {
+            "name": "APACER AP512GAS2280P4-1 NVME 512GB GEN 3",
+            "price": 2345.0
+        },
+        "total_price": 30567.0
     },
     {
         "(CPU)": {
@@ -19512,6 +21283,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 7700 (AM5) WITH WRAITH PRISM COOLER (BOXED)",
+            "price": 20395.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B650M AORUS ELITE AX DDR5 MATX AM5",
+            "price": 11945.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z5 16x2= 32GB 6000MHZ DDR5 BLACK (AMD EXPO)",
+            "price": 11996.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE 2TB 3.5 HDD",
+            "price": 3350.0
+        },
+        "total_price": 47686.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
             "price": 14445.0
         },
@@ -19740,6 +21530,36 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "total_price": 13990.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I5 13600KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 14995.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B760M DS3H DDR4 MATX LGA1700",
+            "price": 6945.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z RGB 8x2 = 16GB 3600MHZ DDR4",
+            "price": 4700.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI GIGABYTE GAMING OC D6X 8GB TRIPLE FAN LHR",
+            "price": 23370.0
+        },
+        "total_price": 50010.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -19880,6 +21700,25 @@
             "price": 2595.0
         },
         "total_price": 28070.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 20486.0
     },
     {
         "(CPU)": {
@@ -20111,6 +21950,21 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS ROG STRIX B550-F GAMING WIFI II DDR4 ATX AM4",
+            "price": 11895.0
+        },
+        "(Accessories)": {
+            "name": "COOLER MASTER VERTICAL GPU HOLDER KIT V2 PCIE 4.0 (MCA-U000R-KFVK02)",
+            "price": 3095.0
+        },
+        "total_price": 29435.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -20307,6 +22161,20 @@
         "total_price": 16824.0
     },
     {
+        "total_price": 0
+    },
+    {
+        "(Splitter)": {
+            "name": "FAN HEADER SPLITTER",
+            "price": 100.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS 8PINS (6+2) FOR GPU",
+            "price": 2200.0
+        },
+        "total_price": 5200.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
             "price": 14445.0
@@ -20339,6 +22207,52 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 7700X (AM5) WITHOUT COOLER (BOXED)",
+            "price": 21295.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 850W 80+ GOLD ATX FULLY MODULAR",
+            "price": 6800.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B650M AORUS ELITE AX DDR5 MATX AM5",
+            "price": 11945.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z5 NEO RGB BLACK 16GBX2=32GB 6000MHZ DDR5 EXPO",
+            "price": 7996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3080 IGAME ULTRA OC 10GB TRIPLE FAN LHR",
+            "price": 39745.0
+        },
+        "total_price": 87781.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7495.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
+            "price": 3999.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 16595.0
+        },
+        "total_price": 37580.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7695.0
         },
@@ -20359,6 +22273,29 @@
             "price": 1350.0
         },
         "total_price": 17225.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I7 13700KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 20995.0
+        },
+        "(Motherboard)": {
+            "name": "MSI PRO B660M-A WIFI DDR4",
+            "price": 8580.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z NEO RGB 8GBX2=16GB 3600MHZ DDR4",
+            "price": 4196.0
+        },
+        "(RAM1)": {
+            "name": "G-SKILL TRIDENT Z NEO RGB 8GBX2=16GB 3600MHZ DDR4",
+            "price": 4196.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3070TI MSI GAMING X TRIO OC 8GB TRIPLE FAN RGB LHR",
+            "price": 39495.0
+        },
+        "total_price": 77462.0
     },
     {
         "(CPU)": {
@@ -20751,6 +22688,29 @@
         "total_price": 29230.0
     },
     {
+        "(Motherboard)": {
+            "name": "ASUS TUF B760M-PLUS WIFI DDR4 M-ATX LGA1700",
+            "price": 10995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ GOLD ATX FULLY MODULAR",
+            "price": 5995.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 13400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 12670.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z NEO 16X2=32GB 3600MHZ RGB DDR4",
+            "price": 6996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI GALAX 1 CLICK OC 8GB DUAL FAN LHR",
+            "price": 19999.0
+        },
+        "total_price": 56655.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 7600 (AM5) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 12795.0
@@ -21011,6 +22971,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H DDR4 MATX AM4",
+            "price": 5695.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 2060 ASUS DUAL OC 6GB DUAL FAN",
+            "price": 15995.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 36681.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -21250,6 +23233,17 @@
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 550W 80+ BRONZE ATX NON MODULAR",
+            "price": 2595.0
+        },
+        "total_price": 8080.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
         "(Motherboard)": {
             "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
             "price": 5795.0
@@ -21391,6 +23385,17 @@
             "price": 3999.0
         },
         "total_price": 67890.0
+    },
+    {
+        "(GPU)": {
+            "name": "GEFORCE RTX 4070 TI MSI GAMING X TRIO BLACK 12GB GDDR6X TRIPLE FAN",
+            "price": 54249.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-850FX FOCUS PLUS 850W 80+ GOLD ATX FULLY MODULAR",
+            "price": 7595.0
+        },
+        "total_price": 61844.0
     },
     {
         "(CPU)": {
@@ -21684,6 +23689,54 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 550W 80+ BRONZE ATX NON MODULAR",
+            "price": 2595.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M K DDR4 (MATX/AM4)",
+            "price": 3695.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "total_price": 16275.0
+    },
+    {
+        "total_price": 0
+    },
+    {
+        "total_price": 0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV750 750W 80+BRONZE ATX NON MODULAR",
+            "price": 4050.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M MORTAR MAX WIFI MATX AM4",
+            "price": 9515.0
+        },
+        "(GPU)": {
+            "name": "RADEON RX 6700XT ASROCK CHALLENGER D 12GB GDDR6 DUAL FAN",
+            "price": 22995.0
+        },
+        "total_price": 51005.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -21932,6 +23985,9 @@
             "price": 3495.0
         },
         "total_price": 52286.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -22372,6 +24428,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "COLORFUL SL300 128GB 2.5\" SATA SSD",
+            "price": 745.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "total_price": 18329.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 9 7900X (AM5) WITHOUT COOLER (BOXED)",
             "price": 26995.0
         },
@@ -22546,6 +24625,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M DS3H WIFI DDR4 MATX AM4",
+            "price": 4995.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "total_price": 14825.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -22601,6 +24699,33 @@
             "price": 2950.0
         },
         "total_price": 18180.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I9 13900K (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 29995.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS Z790-A ROG STRIX GAMING WIFI DDR4 ATX LGA1700",
+            "price": 24420.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4080 GIGABYTE AERO OC 16GB TRIPLE FAN",
+            "price": 81995.0
+        },
+        "(SSD0)": {
+            "name": "SAMSUNG 980 PRO 1TB NVME GEN 4",
+            "price": 5995.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA SATA 3.5\" 2TB 7200RPM",
+            "price": 3795.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-1000FX FOCUS PLUS 1000W 80+ GOLD MODULAR WHITE",
+            "price": 10000.0
+        },
+        "total_price": 156200.0
     },
     {
         "(CPU)": {
@@ -22748,6 +24873,25 @@
             "price": 6495.0
         },
         "total_price": 51470.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 7700 (AM5) WITH WRAITH PRISM COOLER (BOXED)",
+            "price": 20395.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B650M PG RIPTIDE WIFI DDR5 MATX AM5",
+            "price": 11995.0
+        },
+        "(RAM0)": {
+            "name": "G-SKILL FLARE X5 16GBX2=32GB 6000MHZ AMD EXPO DDR5",
+            "price": 7030.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC VERTEX GX-1000 1000W 80+ GOLD ATX WITH PCIE 5.0 FULLY MODULAR",
+            "price": 12850.0
+        },
+        "total_price": 52270.0
     },
     {
         "(CPU)": {
@@ -23439,6 +25583,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV650 650 WATTS 80+BRONZE",
+            "price": 3550.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 ZOTAC TWIN EDGE 12GB DUAL FAN",
+            "price": 20495.0
+        },
+        "total_price": 39635.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -23564,6 +25727,9 @@
             "price": 3500.0
         },
         "total_price": 43316.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -23722,6 +25888,37 @@
             "price": 3550.0
         },
         "total_price": 38981.0
+    },
+    {
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 10400F (LGA1200)",
+            "price": 8070.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA 1TB 3.5 HDD",
+            "price": 2449.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER GALAX 1CLICK OC 6GB DUAL FAN",
+            "price": 11999.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 250GB GEN 4",
+            "price": 1895.0
+        },
+        "total_price": 29653.0
     },
     {
         "(CPU)": {
@@ -23891,6 +26088,25 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B450M STEEL LEGEND DDR4 (MATX/AM4)",
+            "price": 5695.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "total_price": 19536.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -23989,6 +26205,25 @@
             "price": 2950.0
         },
         "total_price": 32824.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 4600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5995.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS PRIME A320M-K (M-ATX/AM4)",
+            "price": 3350.0
+        },
+        "(RAM0)": {
+            "name": "TEAM GROUP ZEUS 8GB 3200MHZ DDR4",
+            "price": 1145.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA S800 256GB SSD 2.5\"",
+            "price": 1145.0
+        },
+        "total_price": 11635.0
     },
     {
         "(CPU)": {
@@ -24093,6 +26328,63 @@
             "price": 2950.0
         },
         "total_price": 29020.0
+    },
+    {
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(RAM1)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 26500.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV750 750W 80+BRONZE ATX NON MODULAR",
+            "price": 4050.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS 8PINS (6+2) FOR GPU",
+            "price": 2200.0
+        },
+        "total_price": 41542.0
+    },
+    {
+        "(Motherboard)": {
+            "name": "ASROCK B550M PRO4 DDR4 MATX AM4",
+            "price": 5795.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV650 650 WATTS 80+BRONZE",
+            "price": 3550.0
+        },
+        "total_price": 9345.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M - ITX AC DDR4 ITX AM4",
+            "price": 8200.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(RAM1)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER V750 750W 80+ GOLD SFX FULLY MODULAR",
+            "price": 7195.0
+        },
+        "total_price": 29482.0
     },
     {
         "(CPU)": {
@@ -24301,6 +26593,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 BLACK 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(SSD0)": {
+            "name": "ADATA XPG SX6000 PRO NVME 512GB GEN 3",
+            "price": 2450.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 2060 ASUS DUAL OC 6GB DUAL FAN",
+            "price": 15995.0
+        },
+        "total_price": 33221.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
             "price": 9795.0
         },
@@ -24329,6 +26644,21 @@
             "price": 6495.0
         },
         "total_price": 50820.0
+    },
+    {
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D50 WHITE 8GBX2=16GB 3200MHZ DDR4",
+            "price": 2996.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP MP33 NVME 512GB GEN 3",
+            "price": 2495.0
+        },
+        "total_price": 8441.0
     },
     {
         "(CPU)": {
@@ -24526,6 +26856,21 @@
             "price": 2950.0
         },
         "total_price": 27980.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I7 13700K (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 23790.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE Z790 AORUS ELITE AX DDR5 ATX LGA1700",
+            "price": 18480.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR RM850X 850WATTS 80+ GOLD",
+            "price": 9498.0
+        },
+        "total_price": 51768.0
     },
     {
         "(CPU)": {
@@ -25092,6 +27437,48 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 3 4100 (AM4) W/ WRAITH STEALTH COOLER",
+            "price": 4195.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B450M STEEL LEGEND DDR4 (MATX/AM4)",
+            "price": 5695.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1650 GIGABYTE D5 4G DUAL FAN",
+            "price": 9350.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV650 650 WATTS 80+BRONZE",
+            "price": 3550.0
+        },
+        "total_price": 22790.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 3600 (AM4) W/ WRAITH STEALTH COOLER",
+            "price": 5900.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B450M STEEL LEGEND DDR4 (MATX/AM4)",
+            "price": 5695.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV650 650 WATTS 80+BRONZE",
+            "price": 3550.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA S800 256GB SSD 2.5\"",
+            "price": 1145.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE SATA 3.5\" 1TB 7200RPM",
+            "price": 2449.0
+        },
+        "total_price": 18739.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 5485.0
         },
@@ -25355,6 +27742,33 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(SSD0)": {
+            "name": "ADATA XPG SX6000 PRO NVME 1TBGEN 3",
+            "price": 4060.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
+            "price": 3999.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H DDR4 MATX AM4",
+            "price": 5695.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 GIGABYTE GAMING OC 12GB TRIPLE FAN RGB LHR",
+            "price": 22625.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA 1TB 3.5 HDD",
+            "price": 2449.0
+        },
+        "total_price": 53273.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -25406,6 +27820,21 @@
             "price": 2950.0
         },
         "total_price": 22881.0
+    },
+    {
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z5 16x2= 32GB 6000MHZ DDR5 BLACK (AMD EXPO)",
+            "price": 11996.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV1 NVME 2TB GEN 3",
+            "price": 8375.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE UD850GM 850WATTS 80 PLUS GOLD FULLY MODULAR",
+            "price": 6460.0
+        },
+        "total_price": 26831.0
     },
     {
         "(CPU)": {
@@ -25647,6 +28076,29 @@
         "total_price": 24480.0
     },
     {
+        "(RAM0)": {
+            "name": "TEAM GROUP T-FORCE DELTA RGB BLACK 16GBX2=32GB 6400MHZ DDR5 XMP",
+            "price": 7490.0
+        },
+        "(RAM1)": {
+            "name": "TEAM GROUP T-FORCE DELTA RGB BLACK 16GBX2=32GB 6400MHZ DDR5 XMP",
+            "price": 7490.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4090 GIGABYTE AORUS MASTER 24GB TRIPLE FAN",
+            "price": 109999.0
+        },
+        "(SSD0)": {
+            "name": "WESTERN DIGITAL BLACK SN850 1TB NVME GEN 4",
+            "price": 9150.0
+        },
+        "(PSU)": {
+            "name": "ASUS ROG THOR 1200P2 80+ PLATINUM FULL MODULAR",
+            "price": 23000.0
+        },
+        "total_price": 157129.0
+    },
+    {
         "(SSD0)": {
             "name": "CRUCIAL CT1000P2SSD8 1TB NVME GEN 3",
             "price": 4350.0
@@ -25703,6 +28155,9 @@
             "price": 3500.0
         },
         "total_price": 38234.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -25953,6 +28408,21 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550I AORUS PRO AX DDR4 ITX AM4",
+            "price": 10945.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER V850 850W 80+ GOLD SFX FULLY MODULAR",
+            "price": 7615.0
+        },
+        "total_price": 28355.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -26062,6 +28532,25 @@
             "price": 1895.0
         },
         "total_price": 18325.0
+    },
+    {
+        "(SSD0)": {
+            "name": "CRUCIAL CT250P2SSD8 \t250GB NVME GEN 3",
+            "price": 1895.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 12400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 6695.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B660M DS3H AX DDR4 (MATX/LGA1700)",
+            "price": 7500.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-650GB3 S12 III 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3500.0
+        },
+        "total_price": 19590.0
     },
     {
         "(CPU)": {
@@ -26509,6 +28998,37 @@
         "total_price": 41570.0
     },
     {
+        "(CPU)": {
+            "name": "INTEL CORE I9 13900KF (LGA1700) WITHOUT COOLER (BOXED)",
+            "price": 28995.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR DOMINATOR PLATINUM RGB BLACK 16x2=32GB 5600MHZ DDR5 XMP",
+            "price": 8470.0
+        },
+        "(RAM1)": {
+            "name": "CORSAIR DOMINATOR PLATINUM RGB BLACK 16x2=32GB 5600MHZ DDR5 XMP",
+            "price": 8470.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 4090 MSI SUPRIM LIQUID X 24GB GDDR6X DUAL FAN RADIATOR",
+            "price": 113995.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA SATA 3.5\" 2TB 7200RPM",
+            "price": 3795.0
+        },
+        "(SSD0)": {
+            "name": "SAMSUNG 970 EVO PLUS 1TB NVME GEN 3",
+            "price": 4995.0
+        },
+        "(PSU)": {
+            "name": "MSI MPG A1000G 1000W PCIE5 80+ GOLD FULL MODULAR",
+            "price": 10145.0
+        },
+        "total_price": 178865.0
+    },
+    {
         "(PSU)": {
             "name": "COOLER MASTER MWE 1250W 80+ V2 GOLD FULL MODULAR",
             "price": 11500.0
@@ -26611,6 +29131,17 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV2 NVME 1TB GEN 4",
+            "price": 3845.0
+        },
+        "total_price": 12340.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7495.0
         },
@@ -26639,6 +29170,21 @@
             "price": 330.0
         },
         "total_price": 35910.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M MORTAR MAX WIFI MATX AM4",
+            "price": 9515.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR RM850E BLACK 850WATTS 80+ GOLD FULLY MODULAR",
+            "price": 7350.0
+        },
+        "total_price": 31310.0
     },
     {
         "(CPU)": {
@@ -26816,6 +29362,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "ADATA XPG SPECTRIX D60G 8x2 16GB 3200MHZ DDR4 (TUNGSTEN)",
+            "price": 4000.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER GALAX 1CLICK OC 6GB DUAL FAN",
+            "price": 11999.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV550 550W 80+BRONZE ATX NON MODULAR",
+            "price": 2950.0
+        },
+        "total_price": 30929.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -26871,6 +29440,33 @@
             "price": 2950.0
         },
         "total_price": 33930.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M STEEL LEGEND DDR4 MATX AM4",
+            "price": 7480.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 850W 80+ GOLD ATX FULLY MODULAR",
+            "price": 6800.0
+        },
+        "(GPU)": {
+            "name": "RADEON AXRX 6700XT POWERCOLOR RED DEVIL 12GB GDDR6 OC TRIPLE FAN",
+            "price": 23950.0
+        },
+        "(SSD0)": {
+            "name": "GIGABYTE AORUS 1TB NVME GEN4",
+            "price": 6550.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE 2TB 3.5 HDD",
+            "price": 3350.0
+        },
+        "total_price": 57925.0
     },
     {
         "(CPU)": {
@@ -27230,6 +29826,29 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(SSD0)": {
+            "name": "CRUCIAL CT500P3SSD8 P3 500GB NVME GEN 3",
+            "price": 2595.0
+        },
+        "(HDD0)": {
+            "name": "WESTERN DIGITAL BLUE 2TB 3.5 HDD",
+            "price": 3350.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B550M DS3H AC DDR4 MATX AM4",
+            "price": 6295.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 GALAX 1 CLICK OC 12GB DUAL FAN LHR",
+            "price": 22995.0
+        },
+        "total_price": 45030.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7695.0
         },
@@ -27516,6 +30135,21 @@
             "price": 9795.0
         },
         "(Motherboard)": {
+            "name": "ASUS ROG STRIX B550-A GAMING DDR4 ATX AM4",
+            "price": 11195.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660 SUPER PALIT GAMING PRO BLACK 6GB GDDR6 DUAL FAN",
+            "price": 12995.0
+        },
+        "total_price": 33985.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
             "name": "ASROCK B550 PG RIPTIDE DDR4 ATX AM4",
             "price": 8140.0
         },
@@ -27629,6 +30263,21 @@
             "price": 3500.0
         },
         "total_price": 47485.0
+    },
+    {
+        "(Motherboard)": {
+            "name": "ASROCK B660M STEEL LEGEND DDR4 MATX LGA1700",
+            "price": 9570.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 12400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 6695.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI IGAME ULTRA W OC 8GB TRIPLE FAN LHR WHITE",
+            "price": 26500.0
+        },
+        "total_price": 42765.0
     },
     {
         "(CPU)": {
@@ -27745,6 +30394,21 @@
             "price": 3395.0
         },
         "total_price": 42255.0
+    },
+    {
+        "(CPU)": {
+            "name": "INTEL CORE I7 12700 (LGA1700)",
+            "price": 22045.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B660M DS3H AX DDR4 (MATX/LGA1700)",
+            "price": 7500.0
+        },
+        "(PSU)": {
+            "name": "SEASONIC SSR-750 FX FOCUS PLUS 750W 80+ GOLD MODULAR",
+            "price": 6495.0
+        },
+        "total_price": 36040.0
     },
     {
         "(CPU)": {
@@ -28004,6 +30668,21 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3080 ZOTAC TRINITY OC 10GB TRIPLE FAN RGB LHR",
+            "price": 39995.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS 8PINS (6+2) FOR GPU",
+            "price": 2200.0
+        },
+        "total_price": 59440.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I9 12900K (LGA1700)",
             "price": 33995.0
         },
@@ -28190,6 +30869,48 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 9 7950X (AM5) WITHOUT COOLER (BOXED)",
+            "price": 34435.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER V850 850W 80+ GOLD SFX FULLY MODULAR",
+            "price": 7615.0
+        },
+        "(SSD0)": {
+            "name": "SAMSUNG 970 EVO PLUS 1TB NVME GEN 3",
+            "price": 4995.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA SATA 3.5\" 2TB 7200RPM",
+            "price": 3795.0
+        },
+        "(Splitter)": {
+            "name": "USB SPLITTER 1 TO 2",
+            "price": 350.0
+        },
+        "total_price": 51190.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
+        "(SSD0)": {
+            "name": "CRUCIAL CT500P3SSD8 P3 500GB NVME GEN 3",
+            "price": 2595.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B450M DS3H WIFI DDR4 MATX AM4",
+            "price": 4995.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE P650B BLACK 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3395.0
+        },
+        "total_price": 18680.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
         },
@@ -28330,6 +31051,25 @@
             "price": 2995.0
         },
         "total_price": 36265.0
+    },
+    {
+        "(SSD0)": {
+            "name": "CRUCIAL CT250P2SSD8 \t250GB NVME GEN 3",
+            "price": 1895.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 12400 (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 9250.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B660M DS3H AX DDR4 (MATX/LGA1700)",
+            "price": 7500.0
+        },
+        "(PSU)": {
+            "name": "GIGABYTE P650B BLACK 650W 80+ BRONZE ATX NON MODULAR",
+            "price": 3395.0
+        },
+        "total_price": 22040.0
     },
     {
         "(CPU)": {
@@ -28566,6 +31306,25 @@
             "price": 2950.0
         },
         "total_price": 36485.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 9795.0
+        },
+        "(Motherboard)": {
+            "name": "ASUS X570 TUF GAMING PLUS WIFI",
+            "price": 12900.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3090 GIGABYTE GAMING OC 24GB TRIPLE FAN RGB",
+            "price": 69995.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE 1250W 80+ V2 GOLD FULL MODULAR",
+            "price": 11500.0
+        },
+        "total_price": 104190.0
     },
     {
         "(CPU)": {
@@ -28869,6 +31628,29 @@
         "total_price": 23511.0
     },
     {
+        "(RAM0)": {
+            "name": "G-SKILL TRIDENT Z ROYAL SILVER RGB 8X2= 16GB 3600MHZ DDR4",
+            "price": 6720.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV1 NVME 1TB GEN 3",
+            "price": 4860.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER V850 V2 850W 80+ GOLD FULL MODULAR WHITE",
+            "price": 8185.0
+        },
+        "(Cable Wire)": {
+            "name": "LIAN LI STRIMER PLUS 8PINS (6+2) FOR GPU",
+            "price": 2200.0
+        },
+        "(RAM1)": {
+            "name": "G-SKILL TRIDENT Z ROYAL SILVER RGB 8X2= 16GB 3600MHZ DDR4",
+            "price": 6720.0
+        },
+        "total_price": 33685.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
@@ -28964,6 +31746,9 @@
             "price": 3999.0
         },
         "total_price": 57625.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -29114,6 +31899,25 @@
     },
     {
         "(CPU)": {
+            "name": "INTEL CORE I5 12400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 6695.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B660M DS3H AX DDR4 (MATX/LGA1700)",
+            "price": 7500.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(SSD0)": {
+            "name": "CRUCIAL CT1000P3PSSD8 P3 PLUS NVME 1TB GEN 4",
+            "price": 3645.0
+        },
+        "total_price": 21036.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7695.0
         },
@@ -29234,6 +32038,21 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 7 5800X (AM4) WITHOUT COOLER (BOXED)",
+            "price": 14445.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M MORTAR MAX WIFI MATX AM4",
+            "price": 9515.0
+        },
+        "(PSU)": {
+            "name": "MSI MAG A550BN 550 WATTS 80+ BRONZE",
+            "price": 2995.0
+        },
+        "total_price": 26955.0
+    },
+    {
+        "(CPU)": {
             "name": "INTEL CORE I7 12700F (LGA1700)",
             "price": 20945.0
         },
@@ -29347,6 +32166,9 @@
             "price": 3395.0
         },
         "total_price": 50315.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -30315,6 +33137,33 @@
     },
     {
         "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "ASROCK B550M PHANTOM GAMING 4 DDR4 MATX AM4",
+            "price": 5595.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
+            "price": 3999.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 TI GALAX 1 CLICK OC 8GB DUAL FAN LHR",
+            "price": 19999.0
+        },
+        "(SSD0)": {
+            "name": "RAMSTA 480GB SATA SSD 2.5",
+            "price": 2500.0
+        },
+        "(SSD1)": {
+            "name": "TEAM GROUP MP33 NVME 256GB GEN3",
+            "price": 1795.0
+        },
+        "total_price": 42383.0
+    },
+    {
+        "(CPU)": {
             "name": "AMD RYZEN 9 5950X (AM4)",
             "price": 30995.0
         },
@@ -30932,6 +33781,9 @@
         "total_price": 27356.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 8495.0
@@ -31151,6 +34003,9 @@
             "price": 5595.0
         },
         "total_price": 58194.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -31926,6 +34781,9 @@
         "total_price": 46545.0
     },
     {
+        "total_price": 0
+    },
+    {
         "(PSU)": {
             "name": "COOLER MASTER MWE 550W 80+ BRONZE",
             "price": 2945.0
@@ -32467,6 +35325,33 @@
             "price": 3500.0
         },
         "total_price": 60230.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5500 (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 5485.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR VENGEANCE RGB PRO SL 8X2=16GB 3200MHZ WHITE DDR4",
+            "price": 4500.0
+        },
+        "(RAM1)": {
+            "name": "CORSAIR VENGEANCE RGB PRO SL 8X2=16GB 3200MHZ WHITE DDR4",
+            "price": 4500.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 GALAX 1 CLICK OC 12GB DUAL FAN LHR",
+            "price": 22995.0
+        },
+        "(SSD0)": {
+            "name": "KINGSTON NV1 NVME 500GB GEN 3",
+            "price": 2775.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ BRONZE ATX NON MODULAR",
+            "price": 3999.0
+        },
+        "total_price": 44254.0
     },
     {
         "(Cable Wire)": {
@@ -33242,6 +36127,29 @@
             "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 7695.0
         },
+        "(RAM0)": {
+            "name": "CORSAIR VENGEANCE RGB PRO SL 8X2=16GB 3200MHZ WHITE DDR4",
+            "price": 4500.0
+        },
+        "(RAM1)": {
+            "name": "CORSAIR VENGEANCE RGB PRO SL 8X2=16GB 3200MHZ WHITE DDR4",
+            "price": 4500.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE 550W 80+ BRONZE",
+            "price": 2945.0
+        },
+        "(Motherboard)": {
+            "name": "MSI MAG B550M MORTAR WIFI DDR4 MATX AM4",
+            "price": 9200.0
+        },
+        "total_price": 28840.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 7695.0
+        },
         "(Motherboard)": {
             "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
             "price": 6495.0
@@ -33438,6 +36346,9 @@
             "price": 7615.0
         },
         "total_price": 139347.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -33679,6 +36590,9 @@
             "price": 3795.0
         },
         "total_price": 106585.0
+    },
+    {
+        "total_price": 0
     },
     {
         "(CPU)": {
@@ -33976,6 +36890,33 @@
         "total_price": 21454.0
     },
     {
+        "(PSU)": {
+            "name": "COOLER MASTER MWE V2 750W 80+ GOLD ATX FULLY MODULAR",
+            "price": 5995.0
+        },
+        "(CPU)": {
+            "name": "INTEL CORE I5 12400F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)",
+            "price": 6695.0
+        },
+        "(Motherboard)": {
+            "name": "GIGABYTE B660M DS3H AX DDR4 (MATX/LGA1700)",
+            "price": 7500.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 PALIT 12GB DUAL FAN RGB LHR",
+            "price": 18995.0
+        },
+        "(SSD0)": {
+            "name": "TEAM GROUP M.2 2280 PCI-E GEN 3X4 MP33 128GB NVME",
+            "price": 1550.0
+        },
+        "(HDD0)": {
+            "name": "SEAGATE BARRACUDA 1TB 3.5 HDD",
+            "price": 2449.0
+        },
+        "total_price": 43184.0
+    },
+    {
         "(CPU)": {
             "name": "AMD RYZEN 7 5700G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
             "price": 10395.0
@@ -34222,6 +37163,25 @@
             "price": 5995.0
         },
         "total_price": 55865.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 7 5700G (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 10395.0
+        },
+        "(PSU)": {
+            "name": "CORSAIR CV450 450 WATTS 80+BRONZE",
+            "price": 2150.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "G SKILL RIPJAWS V BLACK 8GBx1=8GB 3200MHZ DDR4",
+            "price": 1395.0
+        },
+        "total_price": 20435.0
     },
     {
         "(SSD0)": {
@@ -34611,6 +37571,29 @@
             "price": 3999.0
         },
         "total_price": 66578.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "CORSAIR VENGEANCE RGB RS 8X2=16GB 3600MHZ DDR4 (BLACK)",
+            "price": 4680.0
+        },
+        "(RAM1)": {
+            "name": "CORSAIR VENGEANCE RGB RS 8X2=16GB 3600MHZ DDR4 (BLACK)",
+            "price": 4680.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE RTX 3060 ZOTAC TWIN EDGE OC 12GB DUAL FAN LHR",
+            "price": 21995.0
+        },
+        "total_price": 46345.0
     },
     {
         "(CPU)": {
@@ -35225,5 +38208,32 @@
             "price": 3999.0
         },
         "total_price": 47683.0
+    },
+    {
+        "(CPU)": {
+            "name": "AMD RYZEN 5 5600X (AM4) WITH WRAITH STEALTH COOLER (BOXED)",
+            "price": 8495.0
+        },
+        "(PSU)": {
+            "name": "COOLER MASTER MWE 550W 80+ BRONZE",
+            "price": 2945.0
+        },
+        "(Motherboard)": {
+            "name": "MSI B550M PRO VDH WIFI DDR4 MATX AM4",
+            "price": 6495.0
+        },
+        "(RAM0)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(RAM1)": {
+            "name": "KINGSTON FURY RGB BLACK 8GBx2=16GB 3200MHZ DDR4",
+            "price": 3196.0
+        },
+        "(GPU)": {
+            "name": "GEFORCE GTX 1660TI GALAX 1CLICK OC 6GB DUAL FAN LHR",
+            "price": 17450.0
+        },
+        "total_price": 41777.0
     }
 ]
