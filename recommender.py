@@ -37,6 +37,3 @@ def pretty_format(build_list: dict) -> dict:
         build_rank += 1
 
     return prettified_build_list
-
-
-
