@@ -19,7 +19,7 @@ def recommendation(score: int) -> dict:
 
     pretty_top_five = pretty_format(top_five)
 
-    return pretty_top_five
+    return top_five
 
 
 def pretty_format(build_list: dict) -> dict:

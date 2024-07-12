@@ -11,12 +11,12 @@ ruleset = [
     ('budget', 'off', 'light', 'BF'),
     ('budget', 'off', 'everyday', 'BF'),
     ('budget', 'off', 'power', 'BF'),
-    ('budget', 'lmt', 'light', 'VF'),
-    ('budget', 'lmt', 'everyday', 'VF'),
-    ('budget', 'lmt', 'power', 'VF'),
-    ('budget', 'lgm', 'light', 'VF'),
-    ('budget', 'lgm', 'everyday', 'VF'),
-    ('budget', 'lgm', 'power', 'VF'),
+    ('budget', 'lmt', 'light', 'BF'),
+    ('budget', 'lmt', 'everyday', 'BF'),
+    ('budget', 'lmt', 'power', 'BF'),
+    ('budget', 'lgm', 'light', 'BF'),
+    ('budget', 'lgm', 'everyday', 'BF'),
+    ('budget', 'lgm', 'power', 'BF'),
     ('budget', 'hvy', 'light', 'NA'),
     ('budget', 'hvy', 'everyday', 'NA'),
     ('budget', 'hvy', 'power', 'NA'),
@@ -113,15 +113,15 @@ output_sets = {
 }
 
 output_xmid = {
-    'NA': 1,
-    'BF': 2,
+    'NA': 0,
+    'BF': 1,
     'VF': 3,
     'BE': 4,
     'AA': 5,
     'AE': 6,
     'SP': 7,
     'PR': 8,
-    'EW': 9
+    'EW': 10
 }
 
 # test input
