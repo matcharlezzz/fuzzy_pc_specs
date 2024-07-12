@@ -14,7 +14,7 @@ def receive_query():
     error = None
     if request.method == 'POST':
         data = json.loads(request.data.decode('utf-8'))
-        print(data)
+        print(f'data are: {data}')
         
 
         pc = PCSpecsMembership()

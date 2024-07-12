@@ -21,7 +21,6 @@ def ezpc(in_val1, in_val2, in_val3):
     output_sets = {key: 0 for key in ig.output_sets}    # set every key back to 0
     aggregate = dfz.aggregate(ig.ruleset, output_sets, all_inputs, False)
 
-
     defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
     defuzz_outV2 = dfz.defuzzyV2(aggregate)
 
