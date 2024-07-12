@@ -3,29 +3,123 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheet.css')}}">
     <title>EZPC - PC Build Recommender</title>
     <style>
-        form {
-            width: 10vw;
-            display: flex;
-            flex-direction: column;
+        body, html {
+            margin: 0;
+            background-image: url({{url_for('static', filename='builtin/bg.jpg')}});
+            background-size: cover;
         }
     </style>
 </head>
 <body>
-    <h1>EZPC PC Build Recommender</h1>
-
-    <form action="/submit" method="POST">
-        <label for="budget">Budget</label>
-        <input type="number" name="budget" id="budget" placeholder="Ex. 10000">
-        <label for="workload">Workload Intensity</label>
-        <input type="range" min="0" max="10" step="0.01" value="8" name="workload" id="workload">
-        <label for="storage">Storage Intensity</label>
-        <input type="range" min="0" max="5" step="0.01" value="5" name="storage" id="storage">
-        <button type="submit">Submit</button>
-    </form>
+    <div class="modal" id="modal1">
+        <h1>Workload Legend</h1>
+        <ul>
+            <li><strong>1 - 4:</strong> Ideal for Document Editing and Office Use</li>
+            <li><strong>3 - 6:</strong> Suitable for Everyday Tasks and Light Multitasking</li>
+            <li><strong>5 - 8:</strong> Supports Light Gaming and Non-AAA Titles</li>
+            <li><strong>7 - 10:</strong> Recommended for Heavy Graphics Gaming, Video Editing, and Rendering</li>
+        </ul>
+    </div>
+    <div class="modal" id="modal2">
+        <h1>Storage Legend</h1>
+        <ul>
+            <li><strong>1 - 3:</strong> Light User</li>
+            <li><strong>2 - 4:</strong> Everyday User</li>
+            <li><strong>3 - 5:</strong> Power User</li>
+        </ul>
+    </div>
+    <section id="cont_main">
+        <section id="form_cont">
+            <h1 id="title">EZPC</h1>
+            <p>This is an application for finding the PC build recommendations. Just fill out the following form and click "Generate"</p>
+            <form action="/submit" method="POST">
+                <label for="budget">Budget</label>
+                <input type="number" name="budget" id="budget" placeholder="Ex. 12000" min="12000" required>
+                <label for="workload">Workload Intensity</label>
+                <div class="range_in">
+                    <input type="range" min="1" max="10" step="0.5" value="0" name="workload" id="workload" oninput="updateSlider(1)">
+                    <div id="p_range1_container">
+                        <p id="p_range1">5</p>
+                    </div>
+                </div>
+                <label for="storage">Storage Intensity</label>
+                <div class="range_in">
+                    <input type="range" min="1" max="5" step="0.5" value="0" name="storage" id="storage" oninput="updateSlider(2)">
+                    <p id="p_range2">5</p>
+                </div>
+                <button type="submit">Generate</button>
+            </form>
+        </section>
+    </section>
     <script>
+        function updateSlider(num){
+            if(num === 1){
+                p_element = document.getElementById('p_range1');
+                p_element.innerHTML = document.getElementById('workload').value;
+            }
+            else {
+                p_element = document.getElementById('p_range2');
+                p_element.innerHTML = document.getElementById('storage').value;
+            }
+        }
 
+        updateSlider(1)
+        updateSlider(2)
+
+        const pRange1 = document.getElementById('p_range1');
+        const modal1 = document.getElementById('modal1');
+        const pRange2 = document.getElementById('p_range2');
+        const modal2 = document.getElementById('modal2');
+
+        // Function to reposition modal based on mouse position
+        function repositionModal(modal, mouseX, mouseY) {
+            const modalWidth = modal.offsetWidth;
+            const modalHeight = modal.offsetHeight;
+            const winWidth = window.innerWidth;
+            const winHeight = window.innerHeight;
+
+            let newLeft = mouseX + 12;
+            if (newLeft + modalWidth > winWidth) {
+                newLeft = mouseX - modalWidth - 12;
+            }
+
+            let newTop = mouseY + 12;
+            if (newTop + modalHeight > winHeight) {
+                newTop = mouseY - modalHeight - 12;
+            }
+
+            modal.style.left = newLeft + 'px';
+            modal.style.top = newTop + 'px';
+        }
+
+        // Event listeners for pRange1
+        pRange1.addEventListener('mouseenter', function(e) {
+            modal1.style.display = 'block';
+        });
+
+        pRange1.addEventListener('mouseleave', function() {
+            modal1.style.display = 'none';
+        });
+
+        pRange1.addEventListener('mousemove', function(e) {
+            repositionModal(modal1, e.pageX, e.pageY);
+        });
+
+        // Event listeners for pRange2
+        pRange2.addEventListener('mouseenter', function(e) {
+            modal2.style.display = 'block';
+        });
+
+        pRange2.addEventListener('mouseleave', function() {
+            modal2.style.display = 'none';
+        });
+
+        pRange2.addEventListener('mousemove', function(e) {
+            repositionModal(modal2, e.pageX, e.pageY);
+        });
     </script>
 </body>
 </html>

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: Poppins;
+    color: white;
+}
+
+form {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding-left: 10px;
+}
+
+input[type = "number"]{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    border: solid rgba(255, 255, 255, 0.5) 2px;
+    margin-bottom: 10px;
+    font-size: 12pt;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.range_in {
+    display: flex;
+    height: 20px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.range_in p {
+    height: 100%;
+    height: 20px;
+}
+
+input[type = "range"]{
+    width: 90%;
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+    background-color: #151a22;
+    border-radius: 50px;
+    border: solid 2px rgba(255, 255, 255, 0.5);
+    height: 0.5rem;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    background-color: white;
+    margin-top: -5.5px;
+    height: 1rem;
+    width: 1rem;   
+    border-radius: 1rem;
+    box-shadow: 0px 0px 10px black;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5),
+                inset 0px 0px 5px rgba(255, 255, 255, 0.5);
+    transition: all ease-in-out 0.25s;
+}
+
+button {
+    width: 100%;
+    height: 50px; 
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 25px;
+    border: solid white 2px;
+    font-size: 15pt;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all ease-in-out 0.25s;
+}
+
+button:hover {
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5),
+                inset 0px 0px 5px rgba(255, 255, 255, 0.5);
+    
+}
+
+#cont_main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30vw;
+    height: 70vh;
+    padding: 20px;
+    background-color: rgba(21, 26, 34, 0.5);
+    border-radius: 70px;
+    border: solid 5px white;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.45);
+    display: grid;
+    align-items: center;
+    backdrop-filter: blur(10px);
+}
+
+#cont_main h1, p {
+    text-align: center;
+    cursor: pointer;
+}
+
+#cont_main h1 {
+    margin: 0;
+    font-size: 36pt;
+}
+
+#cont_main p {
+    margin-top: 0;
+}
+
+.modal {
+    display: none;
+    position: absolute;
+    background-color: rgba(240, 248, 255, 0);
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    z-index: 10;
+    width: 400px;
+}
+
+#p_range1_container {
+    position: relative;
+    display: inline-block;
+}
+
+.modal h1 {
+    font-size: 16pt;
+    text-align: center;
+}
