@@ -14,9 +14,9 @@ def submit():
 
     import main as fuzzy
 
-    values = fuzzy.ezpc(budget, workload, storage)
+    value = fuzzy.ezpc(budget, workload, storage)
 
-    return flask.render_template('recos.html', value=values)
+    return flask.render_template('recos.html', value=value, budget=budget, workload=workload, storage=storage)
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -5,34 +5,35 @@ import recommender as rcm
 import toJSON
 import pprint
 
-pc = PCSpecsMembership()
 
+def ezpc(in_val1, in_val2, in_val3):
+    pc = PCSpecsMembership()
 
-val_budget = input("Type number for Budget: ")
-val1 = pc.budget(float(val_budget))
-print(val1)
-val = input("Type number for Workload: ")
-val2 = pc.workload(float(val))
-print(val2)
-val = input("Type number for Storage: ")
-val3 = pc.storage(float(val))
-print(val3)
+    val1 = pc.budget(float(in_val1))
+    print(in_val1, ":", val1)
+    val2 = pc.workload(float(in_val2))
+    print(in_val2, ":", val2)
+    val3 = pc.storage(float(in_val3))
+    print(in_val3, ":",val3)
 
+    all_inputs = ig.input_combiner(val1, val2, val3)
 
-all_inputs = ig.input_combiner(val1, val2, val3)
-aggregate = dfz.aggregate(ig.ruleset, ig.output_sets, all_inputs, False)
+    output_sets = {key: 0 for key in ig.output_sets}    # set every key back to 0
+    aggregate = dfz.aggregate(ig.ruleset, output_sets, all_inputs, False)
 
-defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
-defuzz_outV2 = dfz.defuzzyV2(aggregate)
+    defuzz_out = dfz.defuzzy(aggregate, ig.output_xmid)
+    defuzz_outV2 = dfz.defuzzyV2(aggregate)
 
-defuzz_list = [defuzz_out, defuzz_outV2]
+    defuzz_list = [defuzz_out, defuzz_outV2]
 
-closest_defuzz = min(defuzz_list, key=lambda x:abs(x-(int(val_budget)/10000)))
+    closest_defuzz = min(defuzz_list, key=lambda x:abs(x-(int(in_val1)/10000)))
 
+    print(f'\nFinal PC Score: {closest_defuzz}')
 
-print(f'\nFinal PC Score: {closest_defuzz}')
+    recos = rcm.recommendation(closest_defuzz)
+    # pprint.pprint(recos)
 
-recos = rcm.recommendation(closest_defuzz)
-pprint.pprint(recos)
+    # toJSON.pack_dict(recos)
 
-toJSON.pack_dict(recos)
+    return recos
+

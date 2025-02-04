@@ -3,34 +3,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheet_recos.css')}}">
+    <title>EZPC - Recommendations</title>
+    <style>
+        body, html {
+            margin: 0;
+            background-image: url({{url_for('static', filename='builtin/bg.jpg')}});
+            background-size: cover;
+        }
+    </style>
 </head>
 <body>
-    <div id="pc_cont"></div>
-
-    <button onclick="window.location.href = '/'">Go Back to Homepage</button>
+    <section id="cont_main">
+        <section id="cont_reco">
+            <h1 class="header">EZPC Recommendations</h1>
+            <p class="header">These are your Top 5 PC build choices based on your budget of PHP {{ budget }}, workload intensity rating of {{ workload }}, and storage intensity rating of {{ storage }}:</p>
+            <section id="cont_pc"></section>
+            <button onclick="window.location.href = '/'">Go Back to Homepage</button>
+        </section>
+    </section>
     
     <script type="text/javascript">
         var values = {{ value | tojson }};
-        
-        for(var key in values){
+        var count = 0
+        for (var key in values) {
+            count += 1
             var pc = document.createElement('div');
+            pc.setAttribute('class', 'pc');
             var pc_score = document.createElement('h1');
             pc_score.innerHTML = key;
             pc.appendChild(pc_score);
 
             var pc_specs_cont = document.createElement('div');
-            var pc_specs = values[key]
-            for(var spec in pc_specs){
-                if(spec.includes("CPU") || spec.includes("GPU") || spec.includes("Motherboard") || spec.includes("SSD") || spec.includes("RAM") || spec.includes("PSU") || spec.includes("HDD")){
+            var pc_specs = values[key];
+
+            for (var spec in pc_specs) {
+                if (spec.includes("CPU") || spec.includes("GPU") || spec.includes("Motherboard") || spec.includes("SSD") || spec.includes("RAM") || spec.includes("PSU") || spec.includes("HDD")) {
+                    var pc_spec_container = document.createElement('div');
+                    pc_spec_container.setAttribute('class', 'spec-container');
+
+                    var img = document.createElement('img');
                     var pc_spec = document.createElement('p');
-                    pc_spec.innerHTML = spec + ':' + pc_specs[spec]['name'];
-                    pc_specs_cont.appendChild(pc_spec);
+
+                    // Set icons based on specification
+                    if (spec.includes("CPU")) {
+                        img.src = '{{url_for('static', filename='builtin/cpu.png')}}'; 
+                    } else if (spec.includes("GPU")) {
+                        img.src = '{{url_for('static', filename='builtin/gpu.png')}}';
+                    } else if (spec.includes("Motherboard")) {
+                        img.src = '{{url_for('static', filename='builtin/motherboard.png')}}';
+                    } else if (spec.includes("SSD")) {
+                        img.src = '{{url_for('static', filename='builtin/ssd.png')}}';
+                    } else if (spec.includes("RAM")) {
+                        img.src = '{{url_for('static', filename='builtin/ram.png')}}';
+                    } else if (spec.includes("PSU")) {
+                        img.src = '{{url_for('static', filename='builtin/psu.png')}}';
+                    } else if (spec.includes("HDD")) {
+                        img.src = '{{url_for('static', filename='builtin/hdd.png')}}'; 
+                    }
+
+                    img.setAttribute('class', 'spec-icon');
+                    pc_spec.innerHTML = "<b>" + spec + ':' + "</b> " + pc_specs[spec];
+                    pc_spec_container.appendChild(img);
+                    pc_spec_container.appendChild(pc_spec);
+                    pc_specs_cont.appendChild(pc_spec_container);
                 }
             }
 
             pc.appendChild(pc_specs_cont);
-            document.getElementById('pc_cont').appendChild(pc);
+            document.getElementById('cont_pc').appendChild(pc);
+        }
+        if(count === 0){
+            var message = document.createElement('h1');
+            message.innerHTML = "No PCs found...";
+            message.style.textAlign = "center";
+            message.style.fontWeight = "100";
+            message.style.position = "absolute";
+            message.style.top = "50%";
+            message.style.left = "50%";
+            message.style.transform = "translate(-50%, -50%)";
+            message.style.width = "60%";
+            document.getElementById('cont_pc').appendChild(message);
         }
     </script>
 </body>

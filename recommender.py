@@ -1,14 +1,14 @@
 from itertools import islice
 import json
 
-f = open('db/datasets.json')
-
-data = json.load(f)
-
-reco_specs = {}
-
 
 def recommendation(score: int) -> dict:
+    f = open('db/datasets.json')
+
+    data = json.load(f)
+
+    reco_specs = {}
+
     for i in range(len(data)):
         if data[i]['total_price'] <= score * 10000:
             reco_specs[data[i]['total_price'] / 10000] = {key.strip('()'): value for key, value in data[i].items()}
@@ -19,7 +19,9 @@ def recommendation(score: int) -> dict:
 
     pretty_top_five = pretty_format(top_five)
 
-    return top_five
+    f.close()
+
+    return pretty_top_five
 
 
 def pretty_format(build_list: dict) -> dict:
@@ -36,6 +38,3 @@ def pretty_format(build_list: dict) -> dict:
         build_rank += 1
 
     return prettified_build_list
-
-
-f.close()
